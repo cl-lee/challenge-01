@@ -1,4 +1,4 @@
-/* Style for the whole document page*/
+/* Style the whole webpage */
 
 * {
     box-sizing: border-box;
@@ -6,13 +6,17 @@
     margin: 0;
 }
 
-/* Sets background color for the web page. */
+/* Style the background color and paragraph font size for the webpage */
 
 body {
     background-color: #d9dcd6;
 }
 
-/* Defines the text, color, and box model properties for all elements in the header. */
+p {
+    font-size: 16px;
+}
+
+/* Style the navigation bar and its contents */
 
 header {
     padding: 20px;
@@ -52,11 +56,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
-/* Defines the top banner image's size and box model properties, and how it fits on the page. */
+/* Style the header image */
 
 .hero {
     height: 800px;
@@ -66,7 +66,7 @@ p {
     background-position: center;
 }
 
-/* Defines how the main content fits in the web page */
+/* Style the service feature cards */
 
 main {
     width: 75%;
@@ -74,7 +74,7 @@ main {
     margin-left: 20px;
 }
 
-/* Defines the box model, text, image size and background color properties for the contents in the page's section elements.*/
+/* Style each service feature card and its contents */
 
 section {
     margin-bottom: 20px;
@@ -89,11 +89,6 @@ section img {
     max-height: 200px;
 }
 
-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -104,7 +99,12 @@ section h2 {
     margin-left: 25px;
 }
 
-/* Styles the box model, font, background color of the side bar next to the main element. */
+section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Style the side bar */
 
 aside {
     margin-right: 20px;
@@ -117,7 +117,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* Styles the box model, text and image of all sections in the side bar */
+/* Style each side bar and its contents */
 
 .benefits {
     margin-bottom: 32px;
@@ -135,7 +135,7 @@ aside {
     max-width: 150px;
 }
 
-/* Styles the box model and texts in the footer*/
+/* Style the footer*/
 
 footer {
     padding: 30px;
