@@ -17,7 +17,7 @@ There are five major components of the webpage, as displayed from top to bottom 
 
 * ### The navigation bar
 
-  Upon landing on the webpage, visitors will find our company name **Horiseon** in the top left corner. To the right are three features of our services, visitors can click on any of them to view the corresponding service features details.
+  Upon landing on the webpage, visitors will find our company name **Horiseon** in the top left corner. To the right are three features of our services, visitors can click on any of them to view the corresponding service features details.  
     ![The navigation bar of the Horiseon webpage](./assets/README/navigation-bar.png)  
 
 
