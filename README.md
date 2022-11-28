@@ -6,7 +6,7 @@ The webpage is designed to help visitors gain an insight into our services by hi
 
 ## Webpage layout
 
-There are five major components of the webpage, as displayed from top to bottom on the page.
+The webpage consists of the following five major elements, as displayed from top to bottom on the page.
 * The navigation bar
 * The header image
 * Cards detailing features of Horiseon's services
